@@ -9,7 +9,6 @@
 - [Diagram](#diagram)
 - [Screenshot](#screenshot)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 This repository contains an AI-powered healthcare application designed to enhance patient care and medical research. Built with Streamlit and advanced AI models, the application allows users to upload medical data, generate synthetic health records, perform multimodal diagnosis, and receive personalized treatment recommendations. It also offers tools for real-time research assistance, drug discovery, and synthetic data quality checks. The system leverages the Google Gemini model, along with various machine learning and data processing techniques, to bridge the gap between patient care and medical research while ensuring the accuracy and quality of synthetic health data.
@@ -30,6 +29,8 @@ This repository contains an AI-powered healthcare application designed to enhanc
 - **Synthetic Quality Check**: Users upload real and synthetic EHR datasets, and the AI statistically compares them to ensure the quality and reliability of synthetic data.
 
 - **Drug Discovery**: Users provide SMILES notation, and the AI generates molecular images and properties, facilitating new drug development.
+
+- **Diabetes Prediction System**: This Module will predict the diabetes of the patient based on the input data provided by Patient. [https://drive.google.com/drive/folders/1-j8dn2FS0LA6R5slkZS4zdPpFHobNBep?usp=sharing]
 
 
 ## Installation
